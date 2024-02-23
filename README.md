@@ -1,6 +1,6 @@
 # ColorGradient
 
-
+## Exemple code:
 ```Go
 package main
 
@@ -19,3 +19,4 @@ func main() {
 
 }
 ```
+![](https://i.ibb.co/8DCbPwp/Capture-d-cran-2024-02-23-131706.png)
