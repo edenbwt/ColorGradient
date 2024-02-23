@@ -22,5 +22,5 @@ func main() {
 
 }
 ```
-<img width="185" alt="Capture d'écran 2024-02-23 131706" src="https://github.com/edenbwt/ColorGradient/assets/94796854/5093e311-8a09-40eb-ae43-cd6fa3b50605">
+<img width="300" alt="Capture d'écran 2024-02-23 131706" src="https://github.com/edenbwt/ColorGradient/assets/94796854/5093e311-8a09-40eb-ae43-cd6fa3b50605">
 
