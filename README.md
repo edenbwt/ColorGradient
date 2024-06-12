@@ -24,3 +24,4 @@ func main() {
 ```
 <img width="300" alt="Capture d'écran 2024-02-23 131706" src="https://github.com/edenbwt/ColorGradient/assets/94796854/5093e311-8a09-40eb-ae43-cd6fa3b50605">
 
+<p>BTC addres: bc1qeqcu2c6rr6g8dtzw552r40wnnlrz7mrwahne5e</p>
